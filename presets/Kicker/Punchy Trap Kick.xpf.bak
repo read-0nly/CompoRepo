@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" creatorversion="1.2.2" version="1.0" type="instrumenttracksettings">
+  <head/>
+  <instrumenttracksettings name="Trap kick" solo="0" muted="0" type="0">
+    <instrumenttrack pitchrange="1" basenote="93" pitch="0" fxch="0" vol="100" pan="0" usemasterpitch="1">
+      <instrument name="kicker">
+        <kicker click="0.25" endfreq="5" noise="0.11" startfreq="5" decay_syncmode="0" decay_numerator="4" version="1" gain="0.9" startnote="1" dist="2.5" distend="3.3" slope="0.484" env="0.3" endnote="1" decay="1714" decay_denominator="4"/>
+      </instrument>
+      <eldata fres="0.5" fcut="14000" ftype="0" fwet="0">
+        <elvol lpdel="0" lshp="0" lspd_denominator="4" lamt="0" dec="0.316" hold="0.12" pdel="0" userwavefile="" ctlenvamt="0" amt="1" lspd_numerator="4" x100="0" rel="0.348" att="0" sustain="0.148" latt="0" lspd="0.1" lspd_syncmode="0"/>
+        <elcut lpdel="0" lshp="0" lspd_denominator="4" lamt="0" dec="0.5" hold="0.5" pdel="0" userwavefile="" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" att="0" sustain="0.5" latt="0" lspd="0.1" lspd_syncmode="0"/>
+        <elres lpdel="0" lshp="0" lspd_denominator="4" lamt="0" dec="0.5" hold="0.5" pdel="0" userwavefile="" ctlenvamt="0" amt="0" lspd_numerator="4" x100="0" rel="0.1" att="0" sustain="0.5" latt="0" lspd="0.1" lspd_syncmode="0"/>
+      </eldata>
+      <chordcreator chord-enabled="0" chord="0" chordrange="1"/>
+      <arpeggiator arpcycle="0" arptime_denominator="4" arptime="100" arptime_numerator="4" arpgate="100" arpdir="0" arp-enabled="0" arptime_syncmode="0" arpskip="0" arprange="1" arpmiss="0" arp="0" arpmode="0"/>
+      <midiport outputprogram="1" inputcontroller="0" fixedinputvelocity="-1" fixedoutputnote="-1" outputchannel="1" basevelocity="63" inputchannel="0" outputcontroller="0" fixedoutputvelocity="-1" readable="0" writable="0"/>
+      <fxchain numofeffects="0" enabled="0"/>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

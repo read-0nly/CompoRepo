@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creatorversion="1.2.1" type="instrumenttracksettings" version="1.0" creator="LMMS">
+  <head/>
+  <instrumenttracksettings muted="0" name="rave_bass01.ogg" type="0" solo="0">
+    <instrumenttrack vol="100" pitch="0" pan="0" usemasterpitch="1" basenote="57" pitchrange="1" fxch="0">
+      <instrument name="audiofileprocessor">
+        <audiofileprocessor lframe="0" amp="100" stutter="0" src="basses/rave_bass01.ogg" looped="0" sframe="0" reversed="0" eframe="1" interp="1"/>
+      </instrument>
+      <eldata fcut="2131" fres="0.5" ftype="2" fwet="1">
+        <elvol lpdel="0" sustain="0.654" hold="0.142" att="0.186" latt="0" lspd_syncmode="0" amt="0.86" lspd_numerator="4" lspd_denominator="4" lshp="0" userwavefile="" rel="0.62" pdel="0" lamt="0" lspd="0.1" dec="0.348" ctlenvamt="0" x100="0"/>
+        <elcut lpdel="0" sustain="0.5" hold="0.5" att="0" latt="0" lspd_syncmode="0" amt="0" lspd_numerator="4" lspd_denominator="4" lshp="0" userwavefile="" rel="0.1" pdel="0" lamt="0" lspd="0.1" dec="0.5" ctlenvamt="0" x100="0"/>
+        <elres lpdel="0" sustain="0.5" hold="0.5" att="0" latt="0" lspd_syncmode="0" amt="0" lspd_numerator="4" lspd_denominator="4" lshp="0" userwavefile="" rel="0.1" pdel="0" lamt="0" lspd="0.1" dec="0.5" ctlenvamt="0" x100="0"/>
+      </eldata>
+      <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+      <arpeggiator arptime_numerator="4" arp-enabled="0" arptime="200" arpmode="0" arpskip="0" arp="0" arptime_syncmode="0" arpdir="0" arpcycle="0" arptime_denominator="4" arpgate="100" arprange="1" arpmiss="0"/>
+      <midiport inputcontroller="0" outputprogram="1" basevelocity="63" fixedinputvelocity="-1" inputchannel="0" outputcontroller="0" readable="0" fixedoutputnote="-1" outputchannel="1" writable="0" fixedoutputvelocity="-1"/>
+      <fxchain numofeffects="2" enabled="1">
+        <effect on="1" autoquit_syncmode="0" name="ladspaeffect" gate="0" autoquit_numerator="4" wet="1" autoquit_denominator="4" autoquit="1">
+          <ladspacontrols ports="9">
+            <port07>
+              <data value="15" scale_type="log" id="12933"/>
+            </port07>
+            <port08>
+              <data value="14150.2" scale_type="log" id="3174"/>
+            </port08>
+            <port09 data="2"/>
+            <port010 data="1"/>
+            <port011 data="1.6875"/>
+            <port012 data="0.5975"/>
+            <port013 data="14.5625"/>
+            <port014>
+              <data value="20" scale_type="log" id="29425"/>
+            </port014>
+            <port015>
+              <data value="20" scale_type="log" id="1830"/>
+            </port015>
+          </ladspacontrols>
+          <key>
+            <attribute value="calf" name="file"/>
+            <attribute value="Reverb" name="plugin"/>
+          </key>
+        </effect>
+        <effect on="0" autoquit_syncmode="0" name="ladspaeffect" gate="0" autoquit_numerator="4" wet="1" autoquit_denominator="4" autoquit="1">
+          <ladspacontrols ports="13">
+            <port04 data="0"/>
+            <port05 data="1"/>
+            <port06 data="1"/>
+            <port07 data="1"/>
+            <port012 data="5.05"/>
+            <port013 data="10"/>
+            <port015>
+              <data value="20000" scale_type="log" id="27477"/>
+            </port015>
+            <port016>
+              <data value="10" scale_type="log" id="13442"/>
+            </port016>
+            <port017>
+              <data value="20000" scale_type="log" id="17341"/>
+            </port017>
+            <port018>
+              <data value="10" scale_type="log" id="20536"/>
+            </port018>
+            <port019>
+              <data value="2529.82" scale_type="log" id="1998"/>
+            </port019>
+            <port020 data="1"/>
+            <port021>
+              <data value="1" scale_type="log" id="17212"/>
+            </port021>
+          </ladspacontrols>
+          <key>
+            <attribute value="calf" name="file"/>
+            <attribute value="Saturator" name="plugin"/>
+          </key>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

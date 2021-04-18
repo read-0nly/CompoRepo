@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project version="1.0" creatorversion="1.2.2" type="instrumenttracksettings" creator="LMMS">
+  <head/>
+  <instrumenttracksettings solo="0" name="ResoBass" type="0" muted="0">
+    <instrumenttrack usemasterpitch="1" pan="0" vol="30" fxch="0" pitchrange="1" basenote="57" pitch="0">
+      <instrument name="tripleoscillator">
+        <tripleoscillator finel0="-4" modalgo1="2" finel2="1" wavetype1="5" finel1="0" coarse1="0" stphdetun0="227" userwavefile1="" modalgo3="2" phoffset0="0" coarse0="0" pan2="0" finer2="1" stphdetun2="255" vol0="51" pan0="0" finer1="0" wavetype0="4" vol1="97" userwavefile0="" vol2="100" finer0="6" pan1="0" coarse2="-12" wavetype2="0" phoffset1="152" modalgo2="2" userwavefile2="" stphdetun1="102" phoffset2="26"/>
+      </instrument>
+      <eldata fcut="255" fres="3.41" fwet="1" ftype="0">
+        <elvol lshp="0" hold="0" lpdel="0" userwavefile="" amt="1" lspd="0.1" pdel="0" lspd_numerator="4" sustain="0.479" rel="0.301" x100="0" lspd_denominator="4" lamt="0" ctlenvamt="0" latt="0" dec="0.404" att="0.061" lspd_syncmode="0"/>
+        <elcut lshp="0" hold="0.184" lpdel="0" userwavefile="" amt="0.475" lspd="0.1" pdel="0" lspd_numerator="4" sustain="0.48" rel="1.113" x100="0" lspd_denominator="4" lamt="0" ctlenvamt="0" latt="0" dec="0.933" att="0.076" lspd_syncmode="0"/>
+        <elres lshp="0" hold="0.5" lpdel="0" userwavefile="" amt="0" lspd="0.1522" pdel="0" lspd_numerator="4" sustain="0.5" rel="0.1" x100="0" lspd_denominator="4" lamt="0" ctlenvamt="0" latt="0" dec="0.5" att="0.5" lspd_syncmode="0"/>
+      </eldata>
+      <chordcreator chord-enabled="0" chordrange="1" chord="0"/>
+      <arpeggiator arp="8" arpmiss="0" arptime="100" arptime_denominator="4" arptime_numerator="4" arptime_syncmode="0" arp-enabled="0" arpdir="0" arprange="1" arpcycle="0" arpskip="0" arpgate="76" arpmode="0"/>
+      <midiport inputchannel="0" inputcontroller="0" fixedinputvelocity="-1" outputchannel="1" outputprogram="1" readable="0" outputcontroller="0" writable="0" fixedoutputvelocity="-1" fixedoutputnote="-1" basevelocity="63"/>
+      <fxchain enabled="1" numofeffects="1">
+        <effect on="1" name="reverbsc" autoquit_denominator="4" autoquit="1" gate="0" autoquit_syncmode="0" wet="1" autoquit_numerator="4">
+          <ReverbSCControls color="13688.8" input_gain="-10.8" size="0.97" output_gain="5.7"/>
+          <key/>
+        </effect>
+      </fxchain>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>

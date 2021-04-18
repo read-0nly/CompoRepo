@@ -1,0 +1,91 @@
+ALEX HILTON / A1AUDIO.DE software license
+
+------------------------------------------------------------------
+LICENSE AGREEMENT and LEGAL INFORMATION
+------------------------------------------------------------------
+
+By installing, using, copying or otherwise handling this software,
+you agree to all terms of this agreement. If you do not agree with
+any term or condition, you do not have the right to install, use
+or copy this software or any part of it.
+
+
+1. SOFTWARE LICENSE
+
+Any person, company, institution or entity of an kind has the
+right to use this software under the following terms:
+
+- if this software is "freeware", you have the right to use it
+freely and without any royalties whatsoever in any audio/video/
+media production.
+
+- if this software is "payware" and you DID NOT purchase or
+otherwise obtain a registered license for it, you have the
+right to use it only for testing or showcasing purposes.
+
+- if this software is payware and you DID purchase or otherwise
+obtain a registered license for it, you have the right to use
+it without any royalties whatsoever in any audio/video/media
+production.
+
+You have the right to use and/or mention this software in
+"press-like" publications in printed or digital form (e.g.
+review articles, review videos, tutorials or demonstrations) as
+long as you refer to the products correct and full name, author
+and website.
+
+Full versions of freeware and demo versions of payware may be
+ditributed free-of-charge (you are NOT allowed make money by
+by distributing this software), if all parts of the original
+software packing are included completely and unmodified.
+
+Furthermore you may not use this software or parts of it in
+any automated service, where third-party customers are using
+this software without written consent by the author. If you
+are not sure, please feel free to ask the author via contact
+information provided below.
+
+You are not allowed to hack into, disassemble or decompile the
+software or any part of it. If this software is protected by
+any anti-piracy mechanism, you may not bypass or get around
+this mechanism or registration process in any possible way.
+
+2. COPYRIGHT & JURISDICTION
+
+The software is protected by german copyright and corresponding
+international treaties. For purposes of any claim, suit, action
+or proceedings arising out of or in connection with the software,
+its usage, any provided related material or this agreement itself,
+each of the parties irrevocably submits to the exclusive
+jurisdiction of the german courts located in germany and waives
+jurisdiction elsewhere. 
+
+3. WARRANTY
+
+The software is provided without warranty of any kind. This
+includes, but is not limited to, compatibility, "correctness",
+"quality", "usefulness" and "fitness" for your specific needs.
+If you use this software you are doing this at your own risk.
+
+A1AUDIO / Alex Hilton does not guarantee that the software will
+meet any requirements, that it is 100% error-free or that any
+bugs in the software will be corrected in future.
+
+The user of this software agrees to not claim the author's
+responsibility for any damages related to the usage of this
+software or any provided demonstration material. The user will
+futhermore hold the author free from claims of any third-party
+
+4. SUPPORT
+
+A1AUDIO / Alex Hilton will try to provide a fast and profound
+support for this software via email, but does not grant any
+guarantee for that. 
+
+5. CONTACT
+
+ALEX HILTON / A1AUDIO.DE
+www.A1AUDIO.de
+support@A1AUDIO.de
+
+© 2018 ALEX HILTON / A1AUDIO.DE. All rights reserved.
